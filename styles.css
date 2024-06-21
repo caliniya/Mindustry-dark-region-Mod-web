@@ -1,0 +1,67 @@
+/* styles.css */
+
+/* 基本页面样式 */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+}
+
+/* 页面头部样式 */
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0; /* 减少上下内边距 */
+    margin-bottom: 20px; /* 增加底部外边距 */
+}
+
+header h1 {
+    font-size: 2rem; /* 标题字体大小 */
+    margin: 0; /* 去掉默认的外边距 */
+    line-height: 1.2; /* 行高 */
+}
+
+/* 主体内容样式 */
+main {
+    max-width: 800px;
+    margin: 0 auto; /* 居中并减少上下外边距 */
+    padding: 20px; /* 适当增加内边距 */
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    border-radius: 5px;
+}
+
+/* 版本列表样式 */
+#version-list {
+    list-style-type: none;
+    padding: 0;
+}
+
+#version-list li {
+    padding: 10px 0;
+}
+
+/* 概述内容样式 */
+#overview-content {
+    /* 根据需要添加额外的样式 */
+}
+
+/* 页面底部样式 */
+footer {
+    text-align: center;
+    padding: 10px 0; /* 减少上下内边距 */
+    background-color: #333;
+    color: #fff;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+footer p {
+    margin: 0; /* 去掉段落的默认外边距 */
+    font-size: 0.8rem; /* 字体大小 */
+    line-height: 1.5; /* 行高 */
+}
