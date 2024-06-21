@@ -2,9 +2,9 @@
 document.addEventListener('DOMContentLoaded', function() {
     // 模组版本数据
     const versions = [
-        { version: '0.0.1', description: '初版发布', exists: true },
-        { version: '0.0.2', description: '修复了若干 bug', exists: true },
-        { version: '1.0.0', description: '重大更新，新增了多种功能', exists: false }
+        { version: '0.0.1', description: '介绍文本', exists: true },
+        { version: '0.0.2', description: '介绍文本', exists: false },
+        { version: '1.0.0', description: '介绍文本', exists: false }
         // 可以根据需要添加更多版本数据
     ];
 
