@@ -1,2 +1,3 @@
 ## Mindustry-dark-region-Mod-web
-#像素工厂模组"深暗之地"的网站
+#A website about A Mindustry Mod
+#Obviously I won't be updating it in the limited future.
